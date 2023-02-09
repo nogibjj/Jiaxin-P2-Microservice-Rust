@@ -37,5 +37,6 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="354" alt="Screen Shot 2023-02-09 at 1 51 30 PM" src="https://user-images.githubusercontent.com/112274822/217909371-9e17b610-ec15-47dc-9a0b-eff5163b287b.png">
 
 ## Run Microservice
-### 1. Run web microservice after creating main.rs and lib.rs: `cargo run` (Press CTRL+C to quit)
+### 1. Run web microservice 
+* After creating main.rs and lib.rs, in terminal, directly type: `cargo run` (Press CTRL+C to quit)
 
