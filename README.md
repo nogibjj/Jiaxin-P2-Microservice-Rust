@@ -60,3 +60,13 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 
 ## Use automatic deployment platforms to deploy the project
 ### A. Via AWS APP Runner
+
+1. Go to github and then copy the http link for cloning my repo of the project 2
+
+<img width="993" alt="Screen Shot 2023-02-09 at 4 32 23 PM" src="https://user-images.githubusercontent.com/112274822/217944275-01f1edb5-41ab-4be3-9db3-674cfce23fa8.png">
+
+2. Go to AWS Cloud9, then click "Create environment"
+<img width="1039" alt="Screen Shot 2023-02-09 at 4 35 43 PM" src="https://user-images.githubusercontent.com/112274822/217944516-734f0e95-e0cc-4392-9216-e4181919b2d2.png">
+
+* In the terminal, copy the clone link and type : `git clone https://github.com/nogibjj/Jiaxin-P2-Microservice-Rust.git`
+
