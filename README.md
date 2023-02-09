@@ -35,3 +35,7 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 
 * Create a Makefile: it is a special file that lists a set of rules for compiling a project. These rules include targets, which can be an action make needs to take (eg. "clean" or "build") or the files/objects make will need to build, and the commands that need to be run in order to build that target. 
 <img width="354" alt="Screen Shot 2023-02-09 at 1 51 30 PM" src="https://user-images.githubusercontent.com/112274822/217909371-9e17b610-ec15-47dc-9a0b-eff5163b287b.png">
+
+## Run Microservice
+### 1. Run web microservice after creating main.rs and lib.rs: `cargo run` (Press CTRL+C to quit)
+
