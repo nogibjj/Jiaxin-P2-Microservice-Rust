@@ -37,6 +37,23 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="354" alt="Screen Shot 2023-02-09 at 1 51 30 PM" src="https://user-images.githubusercontent.com/112274822/217909371-9e17b610-ec15-47dc-9a0b-eff5163b287b.png">
 
 ## Run Microservice
-### 1. Run web microservice 
-* After creating main.rs and lib.rs, in terminal, directly type: `cargo run` (Press CTRL+C to quit)
+### 1. Use `make format` and `make lint` to fix code format and check code errors
+<img width="544" alt="Screen Shot 2023-02-09 at 2 06 34 PM" src="https://user-images.githubusercontent.com/112274822/217913027-44f99e34-1d47-4197-a37a-9ffc3a13ed7d.png">
 
+### 2. Run web microservice 
+* After creating main.rs and lib.rs, in terminal, directly type: `cargo run` (Press CTRL+C to quit)
+<img width="515" alt="Screen Shot 2023-02-09 at 2 07 26 PM" src="https://user-images.githubusercontent.com/112274822/217913210-375631a1-f8c3-4ce4-9a0a-8945059485ab.png">
+
+* Usage of an example (Test the URL): https://helenyjx-ubiquitous-guide-v957g7j5xjqfvgx-8080.preview.app.github.dev/movie
+
+* A. type: "/" that returns a message : "Hello, random best movies around the world!"
+<img width="642" alt="Screen Shot 2023-02-09 at 2 01 26 PM" src="https://user-images.githubusercontent.com/112274822/217912099-51c491d1-59f3-4006-aaa8-c1f38ef4598c.png">
+
+* B. type: "/movie" that returns a random best movie in the list of the world top 10 best movies
+<img width="697" alt="Screen Shot 2023-02-09 at 2 02 33 PM" src="https://user-images.githubusercontent.com/112274822/217912257-f90b27dd-ad64-4bb3-8746-f6419320cac7.png">
+
+* C. type: "/version" that returns the version of the service 
+<img width="701" alt="Screen Shot 2023-02-09 at 2 04 38 PM" src="https://user-images.githubusercontent.com/112274822/217912657-35ce00a3-cadd-4251-808a-c367e0e5c1c6.png">
+
+## Use automatic deployment platforms to deploy the project
+## A. Via AWS APP Runner
