@@ -9,7 +9,7 @@ pub const MOVIES: [&str; 10] = [
     "The Godfather: Part II (1974)",
     "The Dark Knight (2008)",
     "12 Angry Men (1957)",
-    "Schindler's List (1993)", 
+    "Schindler's List (1993)",
     "The Lord of the Rings: The Return of the King (2003)",
     "Pulp Fiction (1994)",
     "The Good, the Bad and the Ugly (1966)",
