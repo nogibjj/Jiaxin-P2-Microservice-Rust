@@ -6,7 +6,9 @@ I create a simple actix Microservice for movie buffs which can be used for rando
 
 This actix Microservice has multiple routes:
 A. type: "/" that returns a message : "Hello, random best movies around the world!"
+
 B. type: "/movie" that returns a random best movie in the list of the world top 10 best movies
+
 C. type: "/version" that returns the version of the service 
 
 ## Structure Diagram
@@ -33,7 +35,7 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 * Set up Dockerfile for APP webdocker
 <img width="489" alt="Screen Shot 2023-02-09 at 1 45 39 PM" src="https://user-images.githubusercontent.com/112274822/217908173-d0f572ee-847a-4be6-b1fc-18108e0d62c9.png">
 
-* Create a Makefile: it is a special file that lists a set of rules for compiling a project. These rules include targets, which can be an action make needs to take (eg. "clean" or "build") or the files/objects make will need to build, and the commands that need to be run in order to build that target. 
+* Create a Makefile: it is a special file that lists a set of rules for compiling a project. These rules include targets, which can be an action make needs to take or the files/objects make will need to build, and the commands that need to be run in order to build that target. 
 <img width="354" alt="Screen Shot 2023-02-09 at 1 51 30 PM" src="https://user-images.githubusercontent.com/112274822/217909371-9e17b610-ec15-47dc-9a0b-eff5163b287b.png">
 
 ## Run Microservice
