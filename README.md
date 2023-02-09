@@ -89,5 +89,12 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="1183" alt="Screen Shot 2023-02-09 at 4 58 06 PM" src="https://user-images.githubusercontent.com/112274822/217948727-afbe6832-e06c-4ce7-9a3d-5c458e4245e9.png">
 <img width="1155" alt="Screen Shot 2023-02-09 at 5 00 07 PM" src="https://user-images.githubusercontent.com/112274822/217949064-b97e3b1b-a09e-49c2-bebb-3fc8ddc0dc78.png">
 
-4. Go to AWS APP Runner, click "create service" to set up configuration by following below steps:
+4. Go to AWS APP Runner
+* Click "create service" to set up configuration by following below steps:
+
 <img width="1343" alt="Screen Shot 2023-02-09 at 5 10 25 PM" src="https://user-images.githubusercontent.com/112274822/217951010-39109382-8674-4194-b341-1e959221f8a5.png">
+<img width="685" alt="Screen Shot 2023-02-09 at 5 16 48 PM" src="https://user-images.githubusercontent.com/112274822/217951860-e6d68cb1-1e5b-49d6-b548-c741f04ec1f0.png">
+<img width="682" alt="Screen Shot 2023-02-09 at 5 17 40 PM" src="https://user-images.githubusercontent.com/112274822/217951961-977e7d11-6d55-4d62-935f-1d05b8a8b17d.png">
+
+* Then begin to depoly the project after click "Deploy", make sure the event status are "Succeeded" at Deployment logs, otherwise you need to fix the errors according to the report from the event log.
+<img width="1361" alt="Screen Shot 2023-02-09 at 5 18 47 PM" src="https://user-images.githubusercontent.com/112274822/217952146-282eb6f1-68e5-46ae-8ed9-0e5ec71638f7.png">
