@@ -82,6 +82,9 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="1455" alt="Screen Shot 2023-02-09 at 4 54 10 PM" src="https://user-images.githubusercontent.com/112274822/217948051-2950f3e8-c772-4aa6-bad8-7f20fb8bd119.png">
 <img width="886" alt="Screen Shot 2023-02-09 at 4 56 40 PM" src="https://user-images.githubusercontent.com/112274822/217948452-90e17702-10b6-4803-849d-6beb1d94210e.png">
 
+* *Tips*: Sometimes you maybe occur an error when doing docker build, just type: `curl -s https://gist.githubusercontent.com/wongcyrus/a4e726b961260395efa7811cab0b4516/raw/6a045f51acb2338bb2149024a28621db2abfcaab/resize.sh | bash /dev/stdin 60` to fix it
+<img width="1190" alt="Screen Shot 2023-02-08 at 5 00 21 PM" src="https://user-images.githubusercontent.com/112274822/217949943-280eed30-3802-4f14-8aa8-62a6d109fd9e.png">
+
 * Copy above code in terminal at AWS Cloud9
 <img width="1183" alt="Screen Shot 2023-02-09 at 4 58 06 PM" src="https://user-images.githubusercontent.com/112274822/217948727-afbe6832-e06c-4ce7-9a3d-5c458e4245e9.png">
 <img width="1155" alt="Screen Shot 2023-02-09 at 5 00 07 PM" src="https://user-images.githubusercontent.com/112274822/217949064-b97e3b1b-a09e-49c2-bebb-3fc8ddc0dc78.png">
