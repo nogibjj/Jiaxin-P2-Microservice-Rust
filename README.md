@@ -5,6 +5,7 @@ In project 2, the purpose is to build a functional Web Microservice in Rust base
 I create a simple actix Microservice for movie buffs which can be used for randomly choosing a good classic movie at leisure based on the list of the world top 10 best movies. 
 
 This actix Microservice has multiple routes:
+
 A. type: "/" that returns a message : "Hello, random best movies around the world!"
 
 B. type: "/movie" that returns a random best movie in the list of the world top 10 best movies
