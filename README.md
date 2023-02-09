@@ -18,7 +18,6 @@ C. type: "/version" that returns the version of the service
 ## Demo Video Link
 
 
-
 ## Preparation
 ### 1. Containerization: Setup virtual environment
 A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them. 
@@ -78,7 +77,10 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="993" alt="Screen Shot 2023-02-09 at 4 50 15 PM" src="https://user-images.githubusercontent.com/112274822/217947261-ede4ea1c-2533-479d-9b9c-ad1571c17a7a.png">
 <img width="895" alt="Screen Shot 2023-02-09 at 4 52 05 PM" src="https://user-images.githubusercontent.com/112274822/217947658-d9452c70-d0d7-42db-8c04-f39110c3dbb4.png">
 <img width="885" alt="Screen Shot 2023-02-09 at 4 52 22 PM" src="https://user-images.githubusercontent.com/112274822/217947717-0166f817-5709-4ee5-b856-ec3a57bd3b9f.png">
+
 * Then go to "images", click "View push commands" to copy the code, then run each of them one by one at AWS Cloud9 later.
 <img width="1455" alt="Screen Shot 2023-02-09 at 4 54 10 PM" src="https://user-images.githubusercontent.com/112274822/217948051-2950f3e8-c772-4aa6-bad8-7f20fb8bd119.png">
 <img width="886" alt="Screen Shot 2023-02-09 at 4 56 40 PM" src="https://user-images.githubusercontent.com/112274822/217948452-90e17702-10b6-4803-849d-6beb1d94210e.png">
 
+* Copy above code in terminal at AWS Cloud9
+<img width="1183" alt="Screen Shot 2023-02-09 at 4 58 06 PM" src="https://user-images.githubusercontent.com/112274822/217948727-afbe6832-e06c-4ce7-9a3d-5c458e4245e9.png">
