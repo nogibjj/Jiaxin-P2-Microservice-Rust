@@ -88,3 +88,6 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 * Copy above code in terminal at AWS Cloud9
 <img width="1183" alt="Screen Shot 2023-02-09 at 4 58 06 PM" src="https://user-images.githubusercontent.com/112274822/217948727-afbe6832-e06c-4ce7-9a3d-5c458e4245e9.png">
 <img width="1155" alt="Screen Shot 2023-02-09 at 5 00 07 PM" src="https://user-images.githubusercontent.com/112274822/217949064-b97e3b1b-a09e-49c2-bebb-3fc8ddc0dc78.png">
+
+4. Go to AWS APP Runner, click "create service" to set up configuration by following below steps:
+<img width="1343" alt="Screen Shot 2023-02-09 at 5 10 25 PM" src="https://user-images.githubusercontent.com/112274822/217951010-39109382-8674-4194-b341-1e959221f8a5.png">
