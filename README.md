@@ -26,6 +26,13 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 ### 3. create new project
 * Type: `cargo new (project name)` (my Eg: `cargo new src`)
 * Create main.rs and lib.rs for the src project
-* Cargo build: it is a command in the Rust programming language that is used to compile a Rust project. It compiles the project's source code and its dependencies, and produces an executable binary file. The `cargo build` command can be run from the root directory of the project. It uses the information specified in the project's Cargo.toml file to determine the dependencies and build configuration of the project.
+* Cargo build: it is a command in the Rust programming language that is used to compile a Rust project. It compiles the project's source code and its dependencies, and produces an executable binary file. The `cargo build` command can be run from the root directory of the project.
+* Set up Cargo.toml to determine the dependencies and build configuration of the project.
+<img width="728" alt="Screen Shot 2023-02-09 at 1 42 11 PM" src="https://user-images.githubusercontent.com/112274822/217907444-fb11682a-6699-493b-a945-17fd73c8888a.png">
 
+* Set up Dockerfile for APP webdocker
+<img width="489" alt="Screen Shot 2023-02-09 at 1 45 39 PM" src="https://user-images.githubusercontent.com/112274822/217908173-d0f572ee-847a-4be6-b1fc-18108e0d62c9.png">
 
+* Create a Makefile: `touch Makefile`
+
+A makefile is a special file that lists a set of rules for compiling a project. These rules include targets, which can be an action make needs to take (eg. "clean" or "build") or the files/objects make will need to build, and the commands that need to be run in order to build that target. 
