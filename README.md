@@ -14,9 +14,7 @@ C. type: "/version" that returns the version of the service
 
 ## Structure Diagram
 
-
 ## Demo Video Link
-
 
 ## Preparation
 ### 1. Containerization: Setup virtual environment
@@ -98,3 +96,4 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 
 * Then begin to depoly the project after click "Deploy", make sure the event status are "Succeeded" at Deployment logs, otherwise you need to fix the errors according to the report from the event log.
 <img width="1361" alt="Screen Shot 2023-02-09 at 5 18 47 PM" src="https://user-images.githubusercontent.com/112274822/217952146-282eb6f1-68e5-46ae-8ed9-0e5ec71638f7.png">
+<img width="1340" alt="Screen Shot 2023-02-09 at 5 22 31 PM" src="https://user-images.githubusercontent.com/112274822/217952763-c3951e1b-e178-4e79-838c-ab6bf6347341.png">
