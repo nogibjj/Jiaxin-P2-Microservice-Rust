@@ -72,7 +72,13 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 * In the terminal, copy the clone link and type : `git clone https://github.com/nogibjj/Jiaxin-P2-Microservice-Rust.git`
 * Install Rust again
 <img width="1284" alt="Screen Shot 2023-02-09 at 4 48 15 PM" src="https://user-images.githubusercontent.com/112274822/217947005-6a91ea81-7a18-41f8-8c62-0c4cb0a482d4.png">
-* Go to AWS Amazon Elastic Container Registry, click "get start", then follow below steps to create a private repository
+
+3. Go to AWS Amazon Elastic Container Registry, click "get start"
+* then follow below steps to create a private repository
 <img width="993" alt="Screen Shot 2023-02-09 at 4 50 15 PM" src="https://user-images.githubusercontent.com/112274822/217947261-ede4ea1c-2533-479d-9b9c-ad1571c17a7a.png">
 <img width="895" alt="Screen Shot 2023-02-09 at 4 52 05 PM" src="https://user-images.githubusercontent.com/112274822/217947658-d9452c70-d0d7-42db-8c04-f39110c3dbb4.png">
 <img width="885" alt="Screen Shot 2023-02-09 at 4 52 22 PM" src="https://user-images.githubusercontent.com/112274822/217947717-0166f817-5709-4ee5-b856-ec3a57bd3b9f.png">
+* The go to "images", click "View push commands" to copy the code, then run each of them one by one at AWS Cloud9 later.
+<img width="1455" alt="Screen Shot 2023-02-09 at 4 54 10 PM" src="https://user-images.githubusercontent.com/112274822/217948051-2950f3e8-c772-4aa6-bad8-7f20fb8bd119.png">
+<img width="886" alt="Screen Shot 2023-02-09 at 4 56 40 PM" src="https://user-images.githubusercontent.com/112274822/217948452-90e17702-10b6-4803-849d-6beb1d94210e.png">
+
