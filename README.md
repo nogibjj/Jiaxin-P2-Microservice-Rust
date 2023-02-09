@@ -69,4 +69,5 @@ A virtual environment is a tool that helps to keep dependencies required by diff
 <img width="1039" alt="Screen Shot 2023-02-09 at 4 35 43 PM" src="https://user-images.githubusercontent.com/112274822/217944516-734f0e95-e0cc-4392-9216-e4181919b2d2.png">
 
 * In the terminal, copy the clone link and type : `git clone https://github.com/nogibjj/Jiaxin-P2-Microservice-Rust.git`
-
+* Install Rust again
+<img width="1284" alt="Screen Shot 2023-02-09 at 4 48 15 PM" src="https://user-images.githubusercontent.com/112274822/217947005-6a91ea81-7a18-41f8-8c62-0c4cb0a482d4.png">
